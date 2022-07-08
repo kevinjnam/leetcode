@@ -2,6 +2,8 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
+ * Time: O(n)
+ * Space: O(n)
  */
 var twoSum = function(nums, target) {
     let map = {};
